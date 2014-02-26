@@ -2,4 +2,4 @@ flipkart
 ========
 
 this is regarding many things i like to share 
-http://www.flipkart.com/motorola?affid=pankajswa
+https://www.flipkart.com/viewcart?eid=LSTMOBDSGU2ZMDYENQAN58JXS&affid=pankajswa
